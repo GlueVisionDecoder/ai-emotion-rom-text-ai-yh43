@@ -1,4 +1,4 @@
-# 
+# Exclusivo AI Emotion Detection from Text scripts. Con redes neuronales y reconocimiento de imágenes — optimizado para el máximo rendimiento.
 
 
 
